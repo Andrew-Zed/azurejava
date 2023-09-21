@@ -1,6 +1,6 @@
-package guru.springframework.jdbc.dao;
+package andy.springframework.jdbc.dao;
 
-import guru.springframework.jdbc.domain.Author;
+import andy.springframework.jdbc.domain.Author;
 
 /**
  * Created by jt on 8/22/21.

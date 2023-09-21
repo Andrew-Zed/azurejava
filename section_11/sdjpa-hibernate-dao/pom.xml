@@ -8,7 +8,7 @@
         <version>3.0.0-M3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>guru.springframework</groupId>
+    <groupId>andy.springframework</groupId>
     <artifactId>sdjpa-hibernate-dao</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sdjpa-hibernate-dao</name>
@@ -24,6 +24,10 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
         </dependency>
         <dependency>
             <groupId>org.flywaydb</groupId>

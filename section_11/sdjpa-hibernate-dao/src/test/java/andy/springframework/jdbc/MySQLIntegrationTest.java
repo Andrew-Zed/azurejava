@@ -1,7 +1,7 @@
-package guru.springframework.jdbc;
+package andy.springframework.jdbc;
 
 
-import guru.springframework.jdbc.repositories.BookRepository;
+import andy.springframework.jdbc.repositories.BookRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;

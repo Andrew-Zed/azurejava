@@ -1,4 +1,4 @@
-package guru.springframework.jdbc;
+package andy.springframework.jdbc;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

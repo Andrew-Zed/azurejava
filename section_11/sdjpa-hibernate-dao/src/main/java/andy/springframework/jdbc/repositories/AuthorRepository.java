@@ -1,7 +1,7 @@
-package guru.springframework.jdbc.repositories;
+package andy.springframework.jdbc.repositories;
 
 
-import guru.springframework.jdbc.domain.Author;
+import andy.springframework.jdbc.domain.Author;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface AuthorRepository extends JpaRepository<Author, Long> {

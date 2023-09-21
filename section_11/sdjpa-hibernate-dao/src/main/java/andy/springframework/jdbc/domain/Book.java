@@ -1,4 +1,4 @@
-package guru.springframework.jdbc.domain;
+package andy.springframework.jdbc.domain;
 
 
 import jakarta.persistence.Entity;
